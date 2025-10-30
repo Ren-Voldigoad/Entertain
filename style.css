@@ -1,13 +1,13 @@
 body {
   background-colour ;  #ff9999; /* warna pink cerah */
-  font - family: Arial, sans serif; /* jenis huruf yang bersih dan mudah dibaca */
+  font - family: Arial, sans-serif; /* jenis huruf yang bersih dan mudah dibaca */
   colour :  #ff9999 /* warna teks utama (pink) */
 }
 .kartu-profil {
   width: 300px;
-  margin: 60px auto; /* 60px jarak atas/bawah, auto menengahkan kiri/kanan */
+  margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
 padding:20px
-  background-colour: white:
+  background-colour: pink:
 border: radius: 15px /* membuat sudut menjai melengkung */
 box-shadow: 0 4px 8px rgba{0,0,0,0.1}; /* efek bayangan */
                           }
