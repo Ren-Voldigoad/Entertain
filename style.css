@@ -1,0 +1,21 @@
+body {
+  background-colour ;  #ff9999; /* warna pink cerah */
+  font - family: Arial, sans serif; /* jenis huruf yang bersih dan mudah dibaca */
+  colour :  #ff9999 /* warna teks utama (pink) */
+}
+.kartu-profil {
+  width: 300px;
+  margin: 60px auto; /* 60px jarak atas/bawah, auto menengahkan kiri/kanan */
+padding:20px
+  background-colour: white:
+border: radius: 15px /* membuat sudut menjai melengkung */
+box-shadow: 0 4px 8px rgba{0,0,0,0.1}; /* efek bayangan */
+                          }
+.kartu-profil img {
+  width: 150px;
+  borer-radius: 50% /* trik untuk membuat gambar persegi menjadi lingkaran sempurna */
+}
+.kartu-profil {
+  /* ... (kode dari slie sebelumnya) ... */
+  text-align: center; /* menengah semua teks di dalam kartu
+}
