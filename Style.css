@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bung Tomo, Sang Pembangkit Semangat Arek-Arek Surabaya</title>
+  <style>
+    /* === STYLE UMUM === */
+    body {
+      font-family: "Poppins", Arial, sans-serif;
+      line-height: 1.8;
+      margin: 0;
+      background-color: #f7f8fa;
+      color: #333;
+    }
+
+    header {
+      background: linear-gradient(135deg, #e63946, #f77f00);
+      color: white;
+      text-align: center;
+      padding: 2rem 1rem;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      background-color: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      overflow: hidden;
+    }
+
+    .article-image {
+      width: 100%;
+      height: 400px;
+      object-fit: cover;
+    }
+
+    article {
+      padding: 2rem;
+    }
+
+    article h2 {
+      color: #d62828;
+      margin-top: 0;
+      font-size: 1.5rem;
+    }
+
+    article p {
+      margin: 1rem 0;
+      text-align: justify;
+    }
+
+    .emoji {
+      font-size: 1.2rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      background-color: #d62828;
+      color: white;
+      margin-top: 3rem;
+    }
+
+    /* === RESPONSIVE === */
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.6rem;
+      }
+      article {
+        padding: 1.5rem;
+      }
+      .article-image {
+        height: 250px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Bung Tomo, Sang Pembangkit Semangat Arek-Arek Surabaya</h1>
+  </header>
+
+  <main>
+    <img 
+      src="https://share.google/images/quwOxkb4dL8pl7hWm" 
+      alt="Bung Tomo" 
+      class="article-image"
+    />
+
+    <article>
+      <h2>Halo, Sobat SMArT! 👋</h2>
+      <p>Kalian pasti pernah dengar nama <strong>Bung Tomo</strong>, kan? Entah dari buku sejarah, artikel, atau mungkin dari podcast seru tentang pahlawan nasional. Tapi siapa sih sebenarnya Bung Tomo itu? Dari mana asalnya, dan kenapa namanya begitu terkenal setiap tanggal 10 November, saat kita memperingati Hari Pahlawan?</p>
+
+      <p>Nah, kali ini tim jurnalistik SMArT bakal mengajak kalian mengenal lebih dekat sosok sang orator ulung ini!</p>
+
+      <p>Nama asli Bung Tomo adalah <strong>Sutomo</strong>, beliau lahir di Surabaya pada 3 Oktober 1920. Beliau tumbuh di masa penjajahan, saat Indonesia masih di bawah bayang-bayang kolonialisme. Tapi bukannya takut atau menyerah, justru dari situlah semangat juangnya mulai tumbuh! <span class="emoji">🇮🇩</span></p>
+
+      <p>Sejak muda, Bung Tomo dikenal aktif dan cerdas. Ia tidak hanya berjuang dengan senjata, tapi juga dengan kata-kata. Ia menyalurkan semangatnya lewat dunia jurnalistik menjadi wartawan di berbagai media seperti <em>Soeara Oemoem</em>, <em>Ekspres</em>, <em>Pembela Rakyat</em>, dan <em>Poestaka Timoer</em>. Keren banget, ya 👏</p>
+
+      <p>Tahun 1944, Bung Tomo bergabung dalam organisasi “Gerakan Rakyat Baru” dan “Pemuda Republik Indonesia”. Di sinilah perjalanannya sebagai tokoh perjuangan semakin kuat. Lewat siaran radio, Bung Tomo menyuarakan orasi yang berapi-api membangkitkan semangat rakyat Surabaya untuk melawan penjajah!</p>
+
+      <p>Siapa sangka, dari sebuah mikrofon, semangat perjuangan itu menjalar ke seluruh penjuru negeri. Hingga akhirnya pecahlah <strong>Pertempuran Surabaya</strong> pada 10 November 1945, yang kini kita kenal sebagai Hari Pahlawan.</p>
+
+      <p>Meskipun Indonesia saat itu kalah secara militer, semangat juang rakyat Surabaya berhasil mengguncang dunia. Peristiwa ini menjadi simbol keberanian bangsa Indonesia dalam mempertahankan kemerdekaan.</p>
+
+      <p>Bung Tomo mengajarkan bahwa menjadi pahlawan tidak harus berperang di medan laga. Cukup dengan semangat, keberanian, dan cinta tanah air, kita pun bisa meneruskan perjuangannya.</p>
+
+      <p>Kita bisa jadi “pahlawan masa kini” dengan hal sederhana: belajar sungguh-sungguh, berbuat baik, dan tidak menyerah menghadapi tantangan. Karena seperti Bung Tomo, semangat juang sejati tidak pernah padam — ia hidup di dalam hati setiap anak bangsa.</p>
+
+      <p><strong>Jadi, Sobat SMArT</strong>, yuk jadikan semangat Bung Tomo sebagai inspirasi untuk terus maju, berani, dan cinta pada Indonesia tercinta! ❤️</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2025 Tim Jurnalistik SMArT | Artikel: Bung Tomo, Sang Pembangkit Semangat Arek-Arek Surabaya</p>
+  </footer>
+</body>
+  </html>
